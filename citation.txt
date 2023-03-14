@@ -1,0 +1,9 @@
+@article{REPO-066,
+    author = "Tan, Hao and Cheng, Ran and Huang, Shihua and He, Cheng and Qiu, Changxiao and Yang, Fan and Luo, Ping",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "1",
+    pages = "475-489",
+    title = "{RelativeNAS: Relative Neural Architecture Search via Slow-fast Learning}",
+    volume = "34",
+    year = "2023"
+}
